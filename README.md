@@ -1,117 +1,152 @@
-<h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">Anil Vekariya</a> 👋
-</h3>
+<h1 align="center">Hi, I'm Anil Vekariya 👋</h1>
+<h3 align="center">Senior Full-Stack Developer | .NET | Angular | Cloud Architect</h3>
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻!
-</h2>
+---
 
-I am a passionate full-stack developer. In my career so far I have been lucky enough to get opportunities to work on multiple technologies. My core expertise is in Web Development,Desktop App Development, and little bit Hybrid Mobile Application Development.
+## 👨‍💻 About Me
 
-I am skilled in all aspects of the full software development cycle, from requirements gathering and planning through development, release, and maintenance. In other words, I can do everything you need to build your app from the ground up and get it on the market, which means I can turn your conceptual idea into real working software.
+I am a Senior Full Stack Developer with **7+ years** of experience architecting, developing, and deploying scalable enterprise applications across **FinTech, Logistics, Smart Infrastructure, and IoT** domains.
 
-### 💼 Technical Skills & Programming languages I know:-
+My expertise covers full-stack development, backend architecture, microservices, cloud deployments, high-performance APIs, and multi-tenant SaaS systems. I specialize in building systems that are secure, scalable, and production-ready.
 
-- Frontend:
+---
 
-  ![](https://img.shields.io/badge/Angular-28231d?logo=angular&logoColor=red)
-  ![](https://img.shields.io/badge/Electron-28231d?logo=Electron)
-  ![](https://img.shields.io/badge/HTML5-28231d?logo=HTML5)
-  ![](https://img.shields.io/badge/CSS-28231d?logo=CSS3)
-  ![](https://img.shields.io/badge/JavaScript-28231d?logo=JavaScript)
-  ![](https://img.shields.io/badge/JQuery-28231d?logo=JQuery)
+## ⭐ Professional Summary
 
-- Backend:
+- 7+ years building **enterprise-grade web, backend, desktop, and IoT systems** using C#, .NET Core, Angular, SQL Server, Azure, and Electron.
+- Expert in **multi-tenant SaaS**, API-driven microservices, distributed background services, and high-availability systems.
+- Deep knowledge of **OOP, SOLID, CQRS, DDD, Repository Pattern, Unit of Work, Clean Architecture**, and scalable system design.
+- Strong frontend experience with **Angular, TypeScript, HTML5, Tailwind, MUI**, delivering fast and responsive UI/UX.
+- Advanced backend engineering with **Entity Framework Core, Dapper**, query tuning, stored procedures, triggers, and performance optimization.
+- Integrated **15+ global payment gateways** including TopChange, CoinPay, Help2Pay, BridgerPay, etc.
+- Built background systems using **Hosted Services, Worker Services, Redis/RabbitMQ queues**, and async event-driven workflows.
+- Designed **load-balanced microservices** with failover, redundancy, and distributed transaction processing.
+- Developed cross-platform **Electron + Angular IoT apps** for device control, smart lockers, kiosk systems, and real-time synchronization.
+- Delivered enterprise solutions including **TMS (FedEx, DTDC), Digital Locker Management, FinTech Payment Platforms**, and CRM-integrated municipal systems.
+- Strong exposure to **OAuth 2.0, JWT, RBAC**, AML/KYC compliance, encrypted payloads, and secure distributed communication.
+- Experienced in **Azure App Services, Docker, Kubernetes, CI/CD pipelines**, monitoring, and automated deployments.
+- Expertise in SQL optimization, indexing strategies, replicated reporting DBs, and heavy-load analytics systems.
+- Team leadership in mentoring, code reviews, architectural audits, and engineering best practices.
+- Agile/Scrum driven approach with strong collaboration across product, business, and engineering teams.
 
-  ![](https://img.shields.io/badge/.Net_Core-28231d?logo=.Net&logoColor=512bd4)
-  ![](https://img.shields.io/badge/Node.js-28231d?logo=nodedotjs&logoColor=#339933)
-  ![](https://img.shields.io/badge/Express-28231d?logo=express&logoColor=#000000)
-  ![](https://img.shields.io/badge/Nest.JS-28231d?logo=NestJS&logoColor=E0234E)
+## 🔧 Technical Skills
 
-  <!-- ![](https://img.shields.io/badge/Net-black?logo=.Net&logoColor=512bd4&color=61DAFB) -->
+### **Frontend**
+![Angular](https://img.shields.io/badge/Angular-28231d?logo=angular)
+![Electron](https://img.shields.io/badge/Electron-28231d?logo=electron)
+![HTML5](https://img.shields.io/badge/HTML5-28231d?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-28231d?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-28231d?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-28231d?logo=typescript)
 
-- Database:
+### **Backend**
+![.NET Core](https://img.shields.io/badge/.NET_Core-28231d?logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-28231d?logo=csharp)
+![Node.js](https://img.shields.io/badge/Node.js-28231d?logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-28231d?logo=nestjs)
+![Express](https://img.shields.io/badge/Express-28231d?logo=express)
 
-  ![](https://img.shields.io/badge/MsSql-28231d?logo=microsoftsqlserver)
-  ![](https://img.shields.io/badge/MySql-28231d?logo=mysql)
-  ![](https://img.shields.io/badge/MongoDb-28231d?logo=MongoDB)
-  ![](https://img.shields.io/badge/PostgreSql-28231d?logo=postgresql)
-  ![](https://img.shields.io/badge/SQLite-28231d?logo=SQLite)
+### **Databases**
+![SQL Server](https://img.shields.io/badge/MSSQL-28231d?logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-28231d?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-28231d?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-28231d?logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-28231d?logo=sqlite)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-28231d?logo=microsoftazure)
 
-- Reporting Services: SQL Server Reporting Services (SSRS)
+### **Architecture Patterns**
+![CQRS](https://img.shields.io/badge/CQRS-28231d)
+![DDD](https://img.shields.io/badge/DDD-28231d)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-28231d)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-28231d)
+![Unit of Work](https://img.shields.io/badge/Unit_of_Work-28231d)
 
-- .NET Architecture & sample (please click on it for sample):
+### **ORM**
+![Dapper](https://img.shields.io/badge/Dapper-28231d)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-28231d)
+![TypeORM](https://img.shields.io/badge/TypeORM-28231d?logo=typeorm)
+![Prisma](https://img.shields.io/badge/Prisma-28231d?logo=prisma)
 
-  [![CQRS](<https://img.shields.io/badge/CQRS_(Command_Query_Responsibility_Segregation)-28231d?&logoColor=512bd4>)]()
-  [![DDD](https://img.shields.io/badge/DDD-28231d?&logoColor=512bd4)]()
-  [![Repository_pattern](https://img.shields.io/badge/Repository_pattern-28231d?&logoColor=512bd4)]()
-  [![Monolithic](https://img.shields.io/badge/Monolithic-28231d?&logoColor=512bd4)]()
+---
 
-- Languages
+## 🛠️ Tools (Complete List with Icons)
 
-  [![C#](https://img.shields.io/badge/C_Sharp-28231d?&logo=csharp)](https://dotnet.microsoft.com/en-us/languages/csharp)
-  [![typescript](https://img.shields.io/badge/TypeScript-28231d?&logo=typescript)](https://www.typescriptlang.org/)
+### **IDEs & Editors**
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-28231d?logo=visualstudio)
+![VS Code](https://img.shields.io/badge/VS_Code-28231d?logo=visualstudiocode)
+![WebStorm](https://img.shields.io/badge/WebStorm-28231d?logo=webstorm)
+![DataGrip](https://img.shields.io/badge/DataGrip-28231d?logo=datagrip)
 
-- Tools
+### **API & Development Utilities**
+![Postman](https://img.shields.io/badge/Postman-28231d?logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-28231d?logo=swagger)
+![JSON](https://img.shields.io/badge/JSON-28231d?logo=json)
 
-  ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-  ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-  ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-  ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&color=CB3837)
-  ![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=visualstudiocode&color=CB3837)
+### **Version Control & Collaboration**
+![Git](https://img.shields.io/badge/Git-28231d?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-28231d?logo=github)
+![JIRA](https://img.shields.io/badge/JIRA-28231d?logo=jira)
 
-- .Net ORM
+### **DevOps & Cloud**
+![Azure](https://img.shields.io/badge/Azure-28231d?logo=microsoftazure)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-28231d?logo=azuredevops)
+![Docker](https://img.shields.io/badge/Docker-28231d?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-28231d?logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-28231d?logo=jenkins)
+![CI/CD](https://img.shields.io/badge/CI/CD_Pipelines-28231d?logo=githubactions)
 
-  ![](https://img.shields.io/badge/Dapper-28231d?logoColor=512bd4)
-  ![](<https://img.shields.io/badge/Entity_Framework_(Database_first_&_Code_first_approach)-28231d?&logoColor=512bd4>)
+### **Database Tools**
+![SSMS](https://img.shields.io/badge/SSMS-28231d?logo=microsoftsqlserver)
+![DataGrip](https://img.shields.io/badge/DataGrip-28231d?logo=datagrip)
 
-<!-- - Dapper
-- Entity framework (Database first & Code first approach). -->
+---
 
-### 🤝 Connect with me:
+## 💼 Key Projects & Achievements
 
-[![linkedin](https://img.shields.io/badge/linkedin-0e76a8?logo=linkedin)](https://www.linkedin.com/in/contact-maulik)
+### **FinTech Trading & Payment Platform (CPTi)**
+A high-performance financial platform supporting global payment providers, trading systems (MT4/MT5/cTrader), and multi-currency operations. Built modular microservices, automated reconciliation services, and integrated 15+ payment gateways, enabling secure transactions, global compliance, and unified ERP-style financial operations.
 
-## 🔭 My work & Project's
+### **Smart Advertisement & Permit Management System (Dubai Municipality)**
+Developed a city-wide digital permit solution with workflow automation, real-time CRM synchronization, GIS map integration, and secure partner APIs. Improved processing efficiency, automated cross-department communication, and delivered a scalable, Azure-based municipal platform.
 
-- TMS [Transport management system]
+### **Digital Locker Management System (SLMS)**
+Engineered a fully cloud-connected locker ecosystem using CQRS, Angular, Electron, and IoT hardware integrations. Enabled RFID/QR authentication, multilingual notifications, real-time monitoring, and automated rental workflows. Delivered seamless synchronization between locker devices, kiosks, and cloud APIs.
 
-  - Developed TMS in .NET MVC (Repository pattern) with Razor, html, css, javascript. enhancing transport operation efficiency by automating booking, loading, tracking, leading to a 30% improvement in operational processes.
-  - TMS is multi-tenant system. it's manage multiple tenant recrement and configuration in one system and also manage reporting.
-  - Database side used MSsql with Store procedure and to manage in .Net side used Dapper ORM.
-  - SSRS (SQL Server Reporting Services) & PowerBI used as reporting and data analytics
+### **Transport Management System (TMS) — FedEx, DTDC, Scorpion**
+Built a multi-tenant logistics management platform covering booking, fleet tracking, fuel management, allocation automation, and financial reporting. Optimized SQL performance, integrated live GPS APIs, and improved dispatch accuracy and operational visibility across logistics partners.
 
-- SLMS [Smart Locker management system]
+### **Unified ERP Core for Multi-Broker Trading Platforms**
+Architected ERP-style backend modules for user accounts, vendor onboarding, compliance workflows, KYC processing, payments, payouts, and transaction audits. Enabled centralized governance across multiple brokers with high-availability APIs and background processing.
 
-  - SLMS backend develop in CQRS (Command Query Responsibility Segregation) Architecture and two frontend in angular one is for admin and second for locker manage.
+### **Financial Statement Aggregation System (BankBanny)**
+Designed a secure aggregator for banking data retrieval using encryption, masked credential storage, and regulatory-compliant APIs. Delivered real-time statement syncing, secure onboarding flows, and automated background reconciliation.
 
-- PMS [Performance management system]
+### **IoT Device Control & Kiosk Applications (Electron + Angular)**
+Developed cross-platform desktop applications for device orchestration, locker control, and kiosk interfaces. Ensured real-time command execution, fault detection, and local-to-cloud synchronization even under intermittent network conditions.
 
-  - PMS backend develop in MVC and frontend in angular.js.
+### **Investment Opportunity & CRM-Connected Platforms**
+Built and enhanced investment and CRM-integrated systems with Angular frontends and .NET Core APIs. Included document workflows, business approvals, scheduling, reporting, and automated background data sync with Microsoft 365 CRM.
 
-- Investment opportunity
+---
 
-  - Investment opportunity backend develop in MVC and frontend in angular.js.
+## 📚 Currently Learning
+![Rust](https://img.shields.io/badge/Rust-28231d?logo=rust)
+![Go](https://img.shields.io/badge/Go-28231d?logo=go)
 
-- CRM
-  - CRM integrated api manage in MVC api and schedulers.
-
-## 🔭 I'm currently working on
-
-- Dubai municipality base project CRM integration with .Net API's.
-
-## 🌱 I'm currently learning
-
-- ![](https://img.shields.io/badge/Typescript_Framework-electron-informational?style=flat&logo=electron&color=181717)
-- ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&color=181717)
-- ![](https://img.shields.io/badge/Tools-vite-informational?style=flat&logo=vite&color=181717)
+---
 
 ## 📈 GitHub Stats
 
-https://github.com/simple-icons/simple-icons/blob/master/slugs.md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilvekariya&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilvekariya&layout=compact&theme=dark)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anilvekariya)](https://github.com/anilvekariya)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilvekariya&layout=compact)](https://github.com/anilvekariya)
+## 🤝 Connect With Me
 
-Thank you 😊 for visiting my profile & I look forward to hearing from you!!!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin)](https://www.linkedin.com/in/contact-maulik)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/anilvekariya)
+
+---
+
+Thank you for visiting my profile.
