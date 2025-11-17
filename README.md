@@ -42,9 +42,9 @@ I am skilled in all aspects of the full software development cycle, from require
 
 - .NET Architecture & sample (please click on it for sample):
 
-  [![CQRS](<https://img.shields.io/badge/CQRS_(Command_Query_Responsibility_Segregation)-28231d?&logoColor=512bd4>)](https://github.com/MMJ184/Architectures/tree/f93366fd786e9ef3b946ba0722c5c3b0c2ec954c/Backend/dotnet/InfinityCQRS)
+  [![CQRS](<https://img.shields.io/badge/CQRS_(Command_Query_Responsibility_Segregation)-28231d?&logoColor=512bd4>)]()
   [![DDD](https://img.shields.io/badge/DDD-28231d?&logoColor=512bd4)]()
-  [![Repository_pattern](https://img.shields.io/badge/Repository_pattern-28231d?&logoColor=512bd4)](https://github.com/MMJ184/Architectures/tree/f93366fd786e9ef3b946ba0722c5c3b0c2ec954c/Backend/dotnet/InfinityRepositoryPattern)
+  [![Repository_pattern](https://img.shields.io/badge/Repository_pattern-28231d?&logoColor=512bd4)]()
   [![Monolithic](https://img.shields.io/badge/Monolithic-28231d?&logoColor=512bd4)]()
 
 - Languages
@@ -71,7 +71,6 @@ I am skilled in all aspects of the full software development cycle, from require
 ### 🤝 Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0e76a8?logo=linkedin)](https://www.linkedin.com/in/contact-maulik)
-[![xing](https://img.shields.io/badge/xing-green?logo=xing)](https://www.linkedin.com/in/contact-maulik)
 
 ## 🔭 My work & Project's
 
@@ -111,8 +110,8 @@ I am skilled in all aspects of the full software development cycle, from require
 
 https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MMJ184)](https://github.com/MMJ184)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anilvekariya)](https://github.com/anilvekariya)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMJ184&layout=compact)](https://github.com/MMJ184)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilvekariya&layout=compact)](https://github.com/anilvekariya)
 
 Thank you 😊 for visiting my profile & I look forward to hearing from you!!!
